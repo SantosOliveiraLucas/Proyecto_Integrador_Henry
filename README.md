@@ -1,4 +1,6 @@
-# Proyecto_Integrador_Henry
+<h1 align="center" style="font-size: 36px;">Proyecto Individual Henry</h1>
+
+
 Este proyecto es el resultado de un trabajo práctico integrador realizado como parte del Bootcamp de Data Science de SoyHenry. El objetivo principal de este proyecto es crear un sistema de recomendación de videojuegos para usuarios de Steam, una plataforma multinacional de videojuegos.
 
 <p align="center">
