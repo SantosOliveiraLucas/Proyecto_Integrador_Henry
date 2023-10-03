@@ -65,19 +65,19 @@ Este video ofrece una breve explicación de nuestro proyecto, desde la limpieza 
 - `.gitignore/`: Es fundamental en un repositorio Git. Ya que sirve para especificar qué archivos o directorios deben ser ignorados por Git
 - `main.py/`:  Este es el archivo principal del proyecto. Contiene el código principal de la aplicación FastAPI. Es donde estan definidas las rutas y las funciones para manejar las solicitudes HTTP y ejecutar la lógica de la aplicación.
 - `requirements.txt`: Este archivo enumera las dependencias del proyecto, es decir, las bibliotecas de Python que la aplicación necesita para funcionar correctamente.
-
+- `EDA _y_ETL.ipynb`: Archivo en donde esta el codigo y el paso a paso de como fui haciendo el proceso de EDA y de ETL.
+-  `sentiment_analysis.ipynb`: Archivo en donde realizo la creación del modelo de analisis de sentimiento. Para la creación de este archivo probé y comparé resultados con otras librerias como 'textblob' pero según mi criterio me quede con 'nltk', ya que returnaba resultados un poco más precisos y acordes.
+-  `creación_de_las_funciones.ipynb`: En este archivo mustro de una forma máss limpia y ordenada las funciones. Esta el resultado final pero antes de llegar a los resultados fueron muchas pruebas y errores.
+-  `modelo_de_ML.ipynb`: Aqui se almacena el codigo de la creación del codigo de la función del modelo de Machine Learning. Analicé diversas formas de poder desarrollar el modelo y al final me decanté por el modelo de recomendación a base de la similitud del coseno.
 ## Uso
 
-Si deseas utilizar el sistema de recomendación, sigue las instrucciones en la carpeta `src/` para
-
-Si deseas utilizar el sistema de recomendación, sigue las instrucciones en la carpeta `src/` para implementar y ejecutar el código.
+Puedes acceder a las repositorio donde estan las consignas, haciendo click [aquí](https://github.com/soyHenry/PI_ML_OPS/tree/FT)
 
 ## Contribución
 
 Este proyecto es parte del trabajo práctico integrador realizado en el Bootcamp de Data Science de SoyHenry y no acepta contribuciones externas en este momento.
 
-## Licencia
-
-Este proyecto se publica bajo la Licencia [Nombre de la Licencia]. Consulta el archivo LICENSE.md para obtener más detalles.
 
 ## Contacto
+LinkedIn : [Lucas Santos Oliveira](www.linkedin.com/in/lucas-santosoliveira10)
+correo electronico : lucas-santosoliveira@hotmail.com
