@@ -63,7 +63,7 @@ Estos endpoints permitirán a los usuarios obtener recomendaciones personalizada
 **Descripción del Video:**
 Este video ofrece una breve explicación de nuestro proyecto, desde la limpieza de datos hasta la implementación de un sistema de recomendación de videojuegos para usuarios de Steam. Abordaremos sobre los criterios utilizados, el análisis exploratorio de datos y cómo funciona la API. ¡Descúbrelo todo en este video!
 
-**Enlace al Video:** [link]
+**Enlace al Video:** [link](https://drive.google.com/drive/folders/1IHyxwrSCUg8iVDqoXQFzB8G3O8qAMiLb?usp=sharing)
 
 ## Estructura del Repositorio
 
