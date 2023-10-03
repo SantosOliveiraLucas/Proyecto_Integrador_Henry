@@ -69,7 +69,7 @@ Este video ofrece una breve explicación de nuestro proyecto, desde la limpieza 
 -  `sentiment_analysis.ipynb`: Archivo en donde realizo la creación del modelo de analisis de sentimiento. Para la creación de este archivo probé y comparé resultados con otras librerias como 'textblob' pero según mi criterio me quede con 'nltk', ya que returnaba resultados un poco más precisos y acordes.
 -  `creación_de_las_funciones.ipynb`: En este archivo mustro de una forma máss limpia y ordenada las funciones. Esta el resultado final pero antes de llegar a los resultados fueron muchas pruebas y errores.
 -  `modelo_de_ML.ipynb`: Aqui se almacena el codigo de la creación del codigo de la función del modelo de Machine Learning. Analicé diversas formas de poder desarrollar el modelo y al final me decanté por el modelo de recomendación a base de la similitud del coseno.
-## Uso
+## Material de origen
 
 Puedes acceder a las repositorio donde estan las consignas, haciendo click [aquí](https://github.com/soyHenry/PI_ML_OPS/tree/FT)
 
