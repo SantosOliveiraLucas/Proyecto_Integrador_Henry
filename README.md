@@ -49,14 +49,22 @@ Proponemos disponibilizar los datos de la empresa utilizando el framework FastAP
 - `sentiment_analysis(año: int)`: Según el año de lanzamiento, devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentran categorizados con un análisis de sentimiento.
 
 Estos endpoints permitirán a los usuarios obtener recomendaciones personalizadas, consultar datos relacionados con el tiempo de juego y el sentimiento de las reseñas, y obtener información valiosa sobre juegos recomendados y no recomendados.
+## Video de Demostración del Proyecto
+
+**Título del Video:** "Demostración del Proyecto: Sistema de Recomendación de Videojuegos para Usuarios de Steam"
+
+**Descripción del Video:**
+Este video ofrece una breve explicación de nuestro proyecto, desde la limpieza de datos hasta la implementación de un sistema de recomendación de videojuegos para usuarios de Steam. Abordaremos sobre los criterios utilizados, el análisis exploratorio de datos y cómo funciona la API. ¡Descúbrelo todo en este video!
+
+**Enlace al Video:** [link]
 
 ## Estructura del Repositorio
 
-- `notebooks/`: Contiene los cuadernos Jupyter utilizados para la exploración de datos, el desarrollo del modelo y la evaluación.
-- `data/`: Contiene los datos utilizados en el proyecto.
-- `src/`: Contiene el código fuente del sistema de recomendación y la API.
-- `docs/`: Documentación adicional y recursos relacionados con el proyecto.
-- `requirements.txt`: Lista de dependencias del proyecto.
+- `__pycache__/`: Es un directorio que Python utiliza para almacenar archivos de caché de código fuente compilado.
+- `archivos csv/`: Contiene los datos utilizados y consumidos por FastAPI.
+- `.gitignore/`: Es fundamental en un repositorio Git. Ya que sirve para especificar qué archivos o directorios deben ser ignorados por Git
+- `main.py/`:  Este es el archivo principal del proyecto. Contiene el código principal de la aplicación FastAPI. Es donde estan definidas las rutas y las funciones para manejar las solicitudes HTTP y ejecutar la lógica de la aplicación.
+- `requirements.txt`: Este archivo enumera las dependencias del proyecto, es decir, las bibliotecas de Python que la aplicación necesita para funcionar correctamente.
 
 ## Uso
 
