@@ -79,5 +79,5 @@ Este proyecto es parte del trabajo práctico integrador realizado en el Bootcamp
 
 
 ## Contacto
-LinkedIn : [Lucas Santos Oliveira](www.linkedin.com/in/lucas-santosoliveira10)
-correo electronico : lucas-santosoliveira@hotmail.com
+- LinkedIn : [Lucas Santos Oliveira](www.linkedin.com/in/lucas-santosoliveira10)
+- Correo electronico : lucas-santosoliveira@hotmail.com
