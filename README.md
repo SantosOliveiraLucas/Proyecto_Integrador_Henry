@@ -1,6 +1,11 @@
 # Proyecto_Integrador_Henry
 Este proyecto es el resultado de un trabajo práctico integrador realizado como parte del Bootcamp de Data Science de SoyHenry. El objetivo principal de este proyecto es crear un sistema de recomendación de videojuegos para usuarios de Steam, una plataforma multinacional de videojuegos.
 
+<p align="center">
+  <img src="/data/portada.jpg">
+</p>
+
+
 ## Introducción
 Tenemos que ponernos en contexto, imagina trabajar como Data Scientist en Steam y enfrentarte al desafío de crear un sistema de recomendación de videojuegos para sus usuarios. Sin embargo, te encuentras con un obstáculo importante: la calidad y madurez de los datos disponibles es muy baja. Los datos están anidados, en formato crudo y no hay procesos automatizados para la actualización de nuevos productos.
 
