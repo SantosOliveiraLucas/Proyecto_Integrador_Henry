@@ -75,6 +75,7 @@ Este video ofrece una breve explicación de nuestro proyecto, desde la limpieza 
 -  `creación_de_las_funciones.ipynb`: En este archivo mustro de una forma máss limpia y ordenada las funciones. Esta el resultado final pero antes de llegar a los resultados fueron muchas pruebas y errores.
 -  `modelo_de_ML.ipynb`: Aqui se almacena el codigo de la creación del codigo de la función del modelo de Machine Learning. Analicé diversas formas de poder desarrollar el modelo y al final me decanté por el modelo de recomendación a base de la similitud del coseno.
 ## Material de origen
+- `Datasets y archivos originales`: Esta carpeta contiene los archivos originales que se proporcionaron para la realización del proyecto. ¡Dale un vistazo!
 
 Puedes acceder a las repositorio donde estan las consignas, haciendo click [aquí](https://github.com/soyHenry/PI_ML_OPS/tree/FT)
 
